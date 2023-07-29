@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkayucerr" alt="berkayucerr" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow, Keras, Opencv**
+- 🌱 I am a backend developer but I am also learning frontend development to become a full stack developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
